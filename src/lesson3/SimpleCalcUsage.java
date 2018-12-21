@@ -1,6 +1,6 @@
 package lesson3;
 
-public class Start {
+public class SimpleCalcUsage {
     public static void main(String[] args) {
 
         int addResult = SimpleCalc.add(6, 4);
