@@ -10,7 +10,7 @@ public class Start {
 
         System.out.println(SimpleCalc.mult(5, 5) + " //SimpleCalc result");
 
-        testCalculator();
+        testCalculator(); // call for function
 
 
     }
