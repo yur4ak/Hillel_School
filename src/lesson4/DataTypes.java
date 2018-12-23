@@ -6,16 +6,24 @@ public class DataTypes {
         char c2 = 124;
 
         System.out.println("Symbol: " + c1);
-
         System.out.println("Pseudo symbol: " + c2);
 
         boolean b = false;
         boolean bb = true;
 
-
         int x = 16%3; //remainder of the division
         System.out.println("Remainder of the division: " + x);
 
+        // ---- functions call ----
+        castData();
+        compare2Numbers(7, 5);
+
+        if(isNumbersEven(11) == true) {
+            System.out.println("Number is even");
+        }
+        else {
+            System.out.println("Number is odd");
+        }
     }
 
     public static void showAllDataTypes (){
@@ -28,6 +36,51 @@ public class DataTypes {
         float flt = 234.3344F;
         double dbl = 24384762319875.3253245;
 
+
+    }
+
+    public static void castData (){
+
+        byte b = 10;
+        int x = b; // x is b
+
+        long d = 897523948534L;
+        int i = (int) d;
+
+
+        System.out.println("Print b through x: " + x);
+        System.out.println(i);
+
+    }
+
+    public static void compare2Numbers(int x, int y) {
+
+        boolean result = x < y;
+
+        if (result == true) {
+            System.out.println("x<=y");
+
+        }
+        else {
+            System.out.println("x>=y");
+        }
+
+
+
+
+
+        System.out.println("Result of two vars: " + result);
+    }
+
+    public static boolean isNumbersEven(int num) {
+
+        int result = num & 1;
+        if (result == 0) {
+            return true;
+        }
+        else {
+            return false;
+        }
 
     }
 
