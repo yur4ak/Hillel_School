@@ -1,5 +1,5 @@
 // home work com.hillel.task2
-package lesson4;
+package task2;
 
 public class BasicCalculus {
     public static void main(String[] args) {

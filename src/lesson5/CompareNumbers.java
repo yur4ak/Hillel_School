@@ -1,6 +1,5 @@
 // compare numbers, and if else if, switch
 package lesson5;
-
 import java.util.Scanner;
 
 public class CompareNumbers {

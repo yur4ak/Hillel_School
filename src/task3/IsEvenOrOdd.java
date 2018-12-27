@@ -1,5 +1,5 @@
 // home work com.hillel.task3
-package lesson4;
+package task3;
 
 public class IsEvenOrOdd {
     public static void main(String[] args) {
