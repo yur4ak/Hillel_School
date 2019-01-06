@@ -4,7 +4,7 @@ package task3;
 public class IsEvenOrOdd {
     public static void main(String[] args) {
 
-        int setNum = 19; // set number here
+        int setNum = 0; // set number here
         // logic for determination of parity
         if(setNum == 0) {  // check if 0 is initial number and break program flow if it is
             System.out.println("Wow it's a ZERO !!!");
