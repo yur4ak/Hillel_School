@@ -13,7 +13,7 @@ public class BitWise {
         int z = 2; // 0010
         int r2 = 0; // 0000
 
-        int r3 = 10 >> 1; // moved
+        int r3 = 800 >> 2; // moved
         System.out.println(r3);
 
         int r4 = 8 ^ 2; // logic XOR
