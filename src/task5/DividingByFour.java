@@ -14,7 +14,6 @@ public class DividingByFour {
 
     public static long bitDivByFour(double number){
         long simplNum = (long)number;
-        return simplNum >> 2; // moved, divide by 4
-
+        return simplNum >> 2; // bit moving, divide by 4, << - multiply
     }
 }

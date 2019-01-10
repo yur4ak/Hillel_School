@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class summThreeNumbers {
     public static void main(String[] args) {
         // input 3 numbers
-        System.out.println("Input three numbers: ");
+        System.out.println("Input number of three digits: ");
         int summ3 = summOfThree();
 
-        // print 3 numbers
+        // print summ of three numbers
         System.out.println("Summ of three numbers: " + summ3);
 
     }
@@ -16,9 +16,11 @@ public class summThreeNumbers {
 // calculation function
     public static int summOfThree(){
         Scanner scanner = new Scanner(System.in);
-        int inputNumOne = scanner.nextInt();
-        int inputNumTwo = scanner.nextInt();
-        int inputNumThree = scanner.nextInt();
-        return inputNumOne+inputNumTwo+inputNumThree;
+        int inputNum = scanner.nextInt();
+        int hNum = (inputNum-(inputNum % 100))/100;
+        int tNum = ((inputNum % 100) - inputNum % 10)/10;
+        int oNum = inputNum % 10;
+
+        return oNum+tNum+hNum;
     }
 }
