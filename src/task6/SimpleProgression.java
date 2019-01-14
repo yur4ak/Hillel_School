@@ -13,13 +13,13 @@ public class SimpleProgression {
         calcProgression(init, step, fin);
     }
 
-    public static void calcProgression (double i, double s, double f) {
+    public static void calcProgression(double i, double s, double f) {
 
 
-        for ( double x = 0; x < f; x++) {
+        for (double x = 0; x < f; x++) {
 
             System.out.println("Progression element: " + i);
-            i = i+s;
+            i = i + s;
         }
     }
 }

@@ -56,9 +56,10 @@ public class SolvingQuadraticFormula {
             }
         }
     }
+
     // processing discriminant
     public static double discriminantCalc(double a, double b, double c) {
-        double D = (b*b) - (4*a*c);
+        double D = (b * b) - (4 * a * c);
         if (D < 0) {
             return -1;
         } else if (D == 0) {
@@ -67,9 +68,10 @@ public class SolvingQuadraticFormula {
             return D; // this marker return if Discriminant > 0
         }
     }
+
     //finding square root
     public static double oneRoot(double a, double b, double c) {
-            return (-b/(2*a));
+        return (-b / (2 * a));
     }
 
 }

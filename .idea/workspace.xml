@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b7f86b46-d25e-407f-aafa-ce5ff728b59c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task7/ForHundred.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task7/ForHundred.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson7/MathCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson7/MathCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson7/NestedCycles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson7/NestedCycles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task4/SolvingQuadraticFormula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task4/SolvingQuadraticFormula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task6/SimpleProgression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task6/SimpleProgression.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,17 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/task6/DoWhileReverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/task6/Factorial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="240">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -38,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lesson7/NestedCycles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+            <state relative-caret-position="270">
+              <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
               <folding>
                 <element signature="e#89#90#0" expanded="true" />
                 <element signature="e#116#117#0" expanded="true" />
@@ -48,11 +42,51 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lesson7/MathCalc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="357">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson7/Random.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson7/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="34" column="48" lean-forward="true" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson7/AdvancedRndArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/Helpers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/task6/SimpleProgression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="60">
+              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -76,37 +110,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson5/CompareNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/task4/SolvingQuadraticFormula.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="57" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/task7/OddPrint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/task7/ForHundred.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/task5/SeasonDefiner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+            <state relative-caret-position="829">
+              <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3157#3158#0" expanded="true" />
+                <element signature="e#3194#3195#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,7 +172,6 @@
         <option value="$PROJECT_DIR$/src/task4/AreaPerimeterCalc.java" />
         <option value="$PROJECT_DIR$/src/lesson4/DataTypes.java" />
         <option value="$PROJECT_DIR$/src/task3/IsEvenOrOdd.java" />
-        <option value="$PROJECT_DIR$/src/task4/SolvingQuadraticFormula.java" />
         <option value="$PROJECT_DIR$/src/task5/SeasonDefiner.java" />
         <option value="$PROJECT_DIR$/src/lesson4/BitWise.java" />
         <option value="$PROJECT_DIR$/src/task5/bitDivByFour.java" />
@@ -171,13 +182,18 @@
         <option value="$PROJECT_DIR$/src/lesson6/Cycles.java" />
         <option value="$PROJECT_DIR$/src/task4/RailRoadsManager.java" />
         <option value="$PROJECT_DIR$/src/task6/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/task6/SimpleProgression.java" />
         <option value="$PROJECT_DIR$/src/task6/DoWhileReverse.java" />
         <option value="$PROJECT_DIR$/src/task7/OddPrint.java" />
         <option value="$PROJECT_DIR$/src/task7/AgeDetection.java" />
         <option value="$PROJECT_DIR$/src/task7/ForHundred.java" />
-        <option value="$PROJECT_DIR$/src/lesson7/NestedCycles.java" />
         <option value="$PROJECT_DIR$/src/lesson7/MathCalc.java" />
+        <option value="$PROJECT_DIR$/src/task6/SimpleProgression.java" />
+        <option value="$PROJECT_DIR$/src/task4/SolvingQuadraticFormula.java" />
+        <option value="$PROJECT_DIR$/src/lesson7/NestedCycles.java" />
+        <option value="$PROJECT_DIR$/src/lesson7/Random.java" />
+        <option value="$PROJECT_DIR$/src/lesson7/Arrays.java" />
+        <option value="$PROJECT_DIR$/src/utils/Helpers.java" />
+        <option value="$PROJECT_DIR$/src/lesson7/AdvancedRndArray.java" />
       </list>
     </option>
   </component>
@@ -220,13 +236,7 @@
               <item name="Hillel_School" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hillel_School" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hillel_School" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hillel_School" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task7" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -237,7 +247,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547369654444" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547486279528" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -261,13 +271,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MathCalc">
-    <configuration name="AgeDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task7.AgeDetection" />
+  <component name="RunManager" selected="Application.AdvancedRndArray">
+    <configuration name="AdvancedRndArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.AdvancedRndArray" />
       <module name="Hillel_School" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task7.*" />
+          <option name="PATTERN" value="lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForHundred" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task7.ForHundred" />
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.Arrays" />
       <module name="Hillel_School" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task7.*" />
+          <option name="PATTERN" value="lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task7.OddPrint" />
+    <configuration name="Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.Random" />
       <module name="Hillel_School" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task7.*" />
+          <option name="PATTERN" value="lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,11 +339,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdvancedRndArray" />
+        <item itemvalue="Application.Arrays" />
+        <item itemvalue="Application.Random" />
         <item itemvalue="Application.MathCalc" />
         <item itemvalue="Application.NestedCycles" />
-        <item itemvalue="Application.ForHundred" />
-        <item itemvalue="Application.AgeDetection" />
-        <item itemvalue="Application.OddPrint" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547314123955</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="task 7 up, lesson 7">
+      <created>1547369745027</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1547369745027</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -497,13 +514,13 @@
       <window_info id="Image Layers" order="4" />
       <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49799198" visible="true" weight="0.24930556" />
       <window_info id="Structure" order="6" sideWeight="0.50143677" side_tool="true" weight="0.25463623" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.47361112" weight="0.32793522" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4722222" weight="0.32793522" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32959327" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.52916664" side_tool="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.53125" side_tool="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49861112" weight="0.329235" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.47083333" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49930555" weight="0.32928476" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.46875" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49513888" weight="0.39811066" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -545,7 +562,8 @@
     <MESSAGE value="lesson6 cycles next try" />
     <MESSAGE value="lesson5 trains up, lesson6 up" />
     <MESSAGE value="task 6 &amp; 7 fin" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 6 &amp; 7 fin" />
+    <MESSAGE value="task 7 up, lesson 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 7 up, lesson 7" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -670,18 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task4/SolvingQuadraticFormula.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3157#3158#0" expanded="true" />
-            <element signature="e#3194#3195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/task4/CurrConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-108">
@@ -717,31 +723,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task6/DoWhileReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson5/CompareNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="57" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task6/SimpleProgression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task7/AgeDetection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -766,10 +751,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/task6/DoWhileReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task7/AgeDetection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task4/SolvingQuadraticFormula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3157#3158#0" expanded="true" />
+            <element signature="e#3194#3195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task6/SimpleProgression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson7/MathCalc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson7/NestedCycles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        <state relative-caret-position="270">
+          <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
           <folding>
             <element signature="e#89#90#0" expanded="true" />
             <element signature="e#116#117#0" expanded="true" />
@@ -777,10 +802,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson7/MathCalc.java">
+    <entry file="file://$PROJECT_DIR$/src/lesson7/Random.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson7/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="34" column="48" lean-forward="true" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Helpers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson7/AdvancedRndArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
         </state>
       </provider>
     </entry>

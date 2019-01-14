@@ -10,8 +10,8 @@ public class NestedCycles {
             for (int j = 0; j < 5; j++) {
                 //System.out.println("i = " + i + "; " + "j = " + j + "; ");
                 //System.out.print("i = " + i + "; ");
-               // System.out.print("j = " + j + "; ");
-                System.out.println(Math.pow(2,0));
+                // System.out.print("j = " + j + "; ");
+                System.out.println(Math.pow(2, 0));
                 System.out.printf("i = %d ; j = %d; \n", i, j);
 
 
