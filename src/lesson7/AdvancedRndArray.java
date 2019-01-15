@@ -19,7 +19,7 @@ public class AdvancedRndArray {
         }
         for (int x = 0; x < a.length; x++) {
             System.out.print(a[x] + "; ");
-            if (x%10 < 0) {
+            if (x % 10 < 0) {
                 System.out.println();
 
             }
