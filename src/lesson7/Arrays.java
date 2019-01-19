@@ -24,7 +24,7 @@ public class Arrays {
         for (int i = 0; i < a.length; i++) {
             System.out.println("array a = " + a[i]);
             *//*sum += a[i];
-            System.out.println("Array sum = " + sum);
+            System.out.println("ArrayInitMem sum = " + sum);
             System.out.println("+");*//*
         }
         for (int element : a) {
