@@ -3,12 +3,11 @@ package task10;
 public class CompareTwoArrays {
     public static void main(String[] args) {
         int[] ar1 = {3, 2, 90, 0};
-        int[] ar2 = {3, 2, 90, 0};
+        int[] ar2 = {3, 2, 90, 0, 0 };
 
-        if (equalArrays(ar1, ar2))
+        if ((equalArrays(ar1, ar2)) && (ar1.length == ar2.length))
             System.out.println("Arrays is equal");
         else System.out.println("Arrays is inequality");
-
     }
 
     public static boolean equalArrays(int[] a1, int[] a2) {
@@ -20,8 +19,6 @@ public class CompareTwoArrays {
                 x = true;
         }
         return x;
-
-
     }
 }
 

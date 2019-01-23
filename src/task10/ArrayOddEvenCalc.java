@@ -8,7 +8,7 @@ public class ArrayOddEvenCalc {
 
         int[] arr = new int[count];
         for (int i = 0; i < count; i++) {
-            arr[i] = Helpers.getRandom(-100, 100);
+            arr[i] = Helpers.getRandomRnd(-100, 100);
         }
 
         subsOddEven(arr);

@@ -8,7 +8,7 @@ public class ArrSwapingNum {
     public static void main(String[] args) {
         double[] minMaxArr = new double[arrLenght];
         for (int i = 0; i < arrLenght; i++) {
-            minMaxArr[i] = Helpers.getRandom(-100, 100);
+            minMaxArr[i] = Helpers.getRandomRnd(-100, 100);
         }
         int minIndex = 0;
         int maxIndex = 0;
@@ -17,7 +17,7 @@ public class ArrSwapingNum {
         double minMaxTransfer;
 
         for (int j = 0; j < arrLenght; j++) {
-            System.out.print(minMaxArr[j] + " ");
+            System.out.print("[" + minMaxArr[j] + "] ");
             minMaxTransfer = minMaxArr[j];
             if (minMaxTransfer < minOld) { // Min finding
                 minOld = minMaxTransfer;
@@ -29,15 +29,15 @@ public class ArrSwapingNum {
             }
         }
         System.out.println();
-        System.out.println(minOld);
-        System.out.println(maxOld);
+        System.out.println("Min old: " + minOld);
+        System.out.println("Max old: " + maxOld);
         //swap
         double minI = minMaxArr[minIndex];
         double maxI = minMaxArr[maxIndex];
         minMaxArr[maxIndex] = minI;
         minMaxArr[minIndex] = maxI;
 
-        Helpers.showArrayDbl(minMaxArr);
+       Helpers.showArrayDbl(minMaxArr);
     }
 }
 

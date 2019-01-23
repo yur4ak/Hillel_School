@@ -5,15 +5,28 @@ import utils.Helpers;
 public class ArrayCopy {
     public static void main(String[] args) {
         int[] srcArr = {7, 8, 9, -9, 0, 2};
-        int[] newArr = copyArr(srcArr);
+        int[] newArr = {1, 1, 1, 1, 1, 1};
+        copyArr(srcArr, newArr);
 
+        System.out.println("Source array: ");
+        Helpers.showArrayInt(srcArr);
+
+        newArr[newArr.length-1] = 111111;
+        System.out.println();
+        System.out.println("Copied array: ");
         Helpers.showArrayInt(newArr);
+
+        System.out.println();
+        System.out.println("Source array: ");
+        Helpers.showArrayInt(srcArr);
     }
 
-    public static int[] copyArr(int[] src) {
+    public static void copyArr(int[] src, int[] nArr) {
 
-        int[] cArr = src;
-        return cArr;
+        for (int i = 0; i < src.length; i++) {
+            int x = src[i];
+            nArr[i] = x;
+        }
     }
 }
 

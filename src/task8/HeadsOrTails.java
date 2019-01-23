@@ -8,14 +8,14 @@ public class HeadsOrTails {
         int heads = 0;
         int tails = 0;
 
-        for (int i = 0; i < 20; i++) {
-            int ht = Helpers.getRandom(0, 2);
+        for (int i = 0; i < 200; i++) {
+            int ht = Helpers.getRandomRnd(0, 1);
             // test - System.out.print(ht + " ");
             if (ht < 1) {
-                heads += 1;
+                heads++;
             }
             if (ht > 0) {
-                tails += 1;
+                tails++;
             }
         }
         //final result
