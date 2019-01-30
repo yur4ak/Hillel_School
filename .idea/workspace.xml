@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7f86b46-d25e-407f-aafa-ce5ff728b59c" name="Default Changelist" comment="up">
+    <list default="true" id="b7f86b46-d25e-407f-aafa-ce5ff728b59c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson10/LcdMonitorOOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson10/LcdMonitorOOP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task12/FindAndPrintString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task12/FindAndPrintString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task13/PasswordsGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task13/PasswordsGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task15/GodzilaInAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task15/GodzilaInAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task15/Godzilla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task15/Godzilla.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lesson10/LcdMonitorOOP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-708">
-              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+            <state relative-caret-position="178">
+              <caret line="51" column="29" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="29" />
               <folding>
                 <element signature="e#671#672#0" expanded="true" />
                 <element signature="e#706#707#0" expanded="true" />
@@ -91,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/task15/Godzilla.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding>
                 <element signature="e#141#142#0" expanded="true" />
                 <element signature="e#173#174#0" expanded="true" />
@@ -101,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/task15/GodzilaInAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="195">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -132,11 +131,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/task16/BookShelf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+            <state relative-caret-position="120">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -163,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/src/task13/PasswordsGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -251,11 +250,11 @@
         <option value="$PROJECT_DIR$/src/lesson10/LcdMonitorOOP.java" />
         <option value="$PROJECT_DIR$/src/lesson10/LcdMonitorApp.java" />
         <option value="$PROJECT_DIR$/src/task13/PasswordsGenerator.java" />
-        <option value="$PROJECT_DIR$/src/task15/Godzilla.java" />
         <option value="$PROJECT_DIR$/src/task16/Author.java" />
         <option value="$PROJECT_DIR$/src/task16/Book.java" />
-        <option value="$PROJECT_DIR$/src/task15/GodzilaInAction.java" />
         <option value="$PROJECT_DIR$/src/task16/BookShelf.java" />
+        <option value="$PROJECT_DIR$/src/task15/Godzilla.java" />
+        <option value="$PROJECT_DIR$/src/task15/GodzilaInAction.java" />
       </list>
     </option>
   </component>
@@ -301,18 +300,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task15" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Hillel_School" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hillel_School" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task16" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hillel_School" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hillel_School" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -321,7 +308,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548693664975" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548857973461" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -345,7 +332,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BookShelf">
+  <component name="RunManager" selected="Application.GodzilaInAction">
     <configuration name="BookShelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task16.BookShelf" />
       <module name="Hillel_School" />
@@ -413,8 +400,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BookShelf" />
         <item itemvalue="Application.GodzilaInAction" />
+        <item itemvalue="Application.BookShelf" />
         <item itemvalue="Application.PasswordsGenerator" />
         <item itemvalue="Application.LcdMonitorApp" />
         <item itemvalue="Application.LcdMonitorOOP" />
@@ -600,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548533813308</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="another day, another up">
+      <created>1548693711215</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1548693711215</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView">
@@ -621,16 +615,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.502008" side_tool="true" weight="0.24930556" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49799198" visible="true" weight="0.24930556" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49799198" visible="true" weight="0.24930556" />
       <window_info id="Structure" order="6" sideWeight="0.50143677" side_tool="true" weight="0.25463623" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.43611112" weight="0.32793522" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.43333334" weight="0.32793522" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32959327" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.55833334" side_tool="true" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.55972224" side_tool="true" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49861112" weight="0.329235" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49861112" weight="0.32928476" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.44166666" visible="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49305555" weight="0.39811066" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.44027779" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4923611" weight="0.39811066" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49930555" weight="0.32793522" />
@@ -677,7 +671,8 @@
     <MESSAGE value="task 10 fin" />
     <MESSAGE value="task 11 &amp; 12 and up for task 10" />
     <MESSAGE value="up" />
-    <option name="LAST_COMMIT_MESSAGE" value="up" />
+    <MESSAGE value="another day, another up" />
+    <option name="LAST_COMMIT_MESSAGE" value="another day, another up" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -969,13 +964,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10/LcdMonitorApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/task14/RocketOOP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -996,7 +984,7 @@
     <entry file="file://$PROJECT_DIR$/src/task13/PasswordsGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
@@ -1004,43 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson10/LcdMonitorOOP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-708">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-          <folding>
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#970#971#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
-            <element signature="e#1047#1048#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-            <element signature="e#1033#1034#0" expanded="true" />
-            <element signature="e#1067#1068#0" expanded="true" />
-            <element signature="e#1101#1102#0" expanded="true" />
-            <element signature="e#1134#1135#0" expanded="true" />
-            <element signature="e#1183#1184#0" expanded="true" />
-            <element signature="e#1227#1228#0" expanded="true" />
-            <element signature="e#1259#1260#0" expanded="true" />
-            <element signature="e#1290#1291#0" expanded="true" />
-            <element signature="e#1335#1336#0" expanded="true" />
-            <element signature="e#1375#1376#0" expanded="true" />
-            <element signature="e#1407#1408#0" expanded="true" />
-            <element signature="e#1435#1436#0" expanded="true" />
-            <element signature="e#1478#1479#0" expanded="true" />
-            <element signature="e#1512#1513#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1080,10 +1031,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task15/Godzilla.java">
+    <entry file="file://$PROJECT_DIR$/src/task16/BookShelf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson10/LcdMonitorApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson10/LcdMonitorOOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="51" column="29" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="29" />
+          <folding>
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1090#1091#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+            <element signature="e#1259#1260#0" expanded="true" />
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#1335#1336#0" expanded="true" />
+            <element signature="e#1375#1376#0" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+            <element signature="e#1478#1479#0" expanded="true" />
+            <element signature="e#1512#1513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task15/Godzilla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
           <folding>
             <element signature="e#141#142#0" expanded="true" />
             <element signature="e#173#174#0" expanded="true" />
@@ -1093,15 +1095,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/task15/GodzilaInAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task16/BookShelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        <state relative-caret-position="195">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>

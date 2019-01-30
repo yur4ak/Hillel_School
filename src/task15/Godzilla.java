@@ -12,11 +12,24 @@ public class Godzilla {
         this.food = food;
     }*/
 
-    public void humanEating(int food){
-        if (food >= (STOMACH*.9)){
+    public void humanEating(int food) {
+        if (food >= (STOMACH * .9)) {
             System.out.println("Godzilla is full, leave people alone!");
         } else System.out.println("Feed Godzilla with some humans");
     }
+
+    public boolean eat(int volumeEateanFood) {
+        food = food + volumeEateanFood;
+        if (food >= STOMACH) {
+            System.out.println("Godzilla is full, leave people alone!");
+            return true;
+        } else {
+            System.out.println("Feed Godzilla with some humans");
+            return false;
+        }
+    }
+
+    ;
 }
 
 //Создать класс Godzilla. У данного класса должно быть свойство - объем желудка.
