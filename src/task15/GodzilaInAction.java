@@ -13,7 +13,9 @@ public class GodzilaInAction {
         while (!littleGodzilka.eat(feedGodzila)) {
             System.out.println("How many people you don't care: ");
             feedGodzila = Helpers.getIntKeyboard();
+            if (littleGodzilka.food < 1000)
             littleGodzilka.eat(feedGodzila);
+            else continue;
         } // double: "Godzilla is full, leave people alone!", message ?????
     }
 }

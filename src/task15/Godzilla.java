@@ -2,21 +2,17 @@ package task15;
 
 public class Godzilla {
     private final int STOMACH = 1000; //
-    private int food = 0;
+    public int food = 0;
 
     public void setFood(int food) {
         this.food = food;
     }
 
-   /* public Godzilla(int food){
-        this.food = food;
-    }*/
-
-    public void humanEating(int food) {
+    /*public void humanEating(int food) {
         if (food >= (STOMACH * .9)) {
             System.out.println("Godzilla is full, leave people alone!");
         } else System.out.println("Feed Godzilla with some humans");
-    }
+    }*/
 
     public boolean eat(int volumeEateanFood) {
         food = food + volumeEateanFood;
