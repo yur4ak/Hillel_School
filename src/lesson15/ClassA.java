@@ -19,4 +19,8 @@ public class ClassA {
     public int getY() {
         return y;
     }
+
+    protected int externalCalc(){
+        return x+y;
+    }
 }
