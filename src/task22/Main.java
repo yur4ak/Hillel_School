@@ -10,7 +10,7 @@ public class Main {
         Animal fish1 = new Fish();
         Animal lio1 = new Lion();
         Animal wolf1 = new Wolf();
-        Animal lab1 = new Labrador();
+        Dog lab1 = new Labrador("Laba");
 
         dog1.say();
         dog2.say();

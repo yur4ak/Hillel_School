@@ -3,7 +3,7 @@ package task21;
 public class ManagersHiring {
     public static void main(String[] args) {
         Manager man1 = new Manager();
-        man1.teamLead = Manager.managerDepartment.design;
+        man1.teamLead = Manager.ManagerDepartment.design;
         System.out.println(man1.teamLead);
     }
 }

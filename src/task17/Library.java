@@ -2,17 +2,23 @@ package task17;
 
 public class Library {
     public static void main(String[] args) {
+        BookShelf bs1 = new BookShelf();
 
-        BookShelf bS = new BookShelf(15);
-//        Author author1 = new Author("Jhonny", "Walker", 1910);
+        Book b1 = new Book("Whisky");
+        Author a1 = new Author("Jhon Walker");
 
-//        Book book1 = new Book(author1, 160, "Diamond Back");
-//        Book book2 = new Book(author1, 300, "White Desert");
+        bs1.addBook(b1, a1);
+        bs1.addBook(b1, a1);
+        bs1.addBook(b1, a1);
+        bs1.addBook(b1, a1);
+        bs1.addBook(b1, a1);
+        bs1.addBook(b1, a1);
+        bs1.addBook(b1, a1);
+        bs1.addBook(b1, a1);
+        bs1.addBook(b1, a1);
+        bs1.addBook(b1, a1);
+        bs1.addBook(b1, a1); // 11 redundant element in bookshelf
 
-//        bS.put(book1);
-//        bS.put(book2);
-
-        bS.showAllBooks();
-
+        bs1.showAllBooks();
     }
 }

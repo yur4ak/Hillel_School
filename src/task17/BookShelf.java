@@ -1,26 +1,24 @@
 package task17;
 
 public class BookShelf {
-    private Book[] arrBooks;
+
+    private String[] arrBooks = new String[11];
     private int counter = 0;
 
-    public BookShelf(int lenght){
-        this.arrBooks = new Book[lenght];
+    public void addBook(Book book, Author author){
+        if(counter < 10) {
+            arrBooks[counter] = (book.getBookTitle() + " - " + author.getAuthorName());
+            counter++;
+        } else arrBooks[counter] = "Sorry bookshelf is full";
     }
 
-    public void put(Book book) {
-        if (counter < arrBooks.length) {
-            arrBooks[counter++] = book;
-        } else {
-            System.out.println("Bookshelf is filled up");
-
+    public void showAllBooks(){
+        for (int i = 0; i < arrBooks.length-1; i++) {
+            System.out.println(arrBooks[i]);
+        }
+        if (arrBooks[arrBooks.length-1] != null){
+            System.out.println(arrBooks[arrBooks.length-1]);
         }
     }
 
-    public void showAllBooks() {
-        for (int i = 0; i <= 10; i++) {
-            System.out.println("Book: " + arrBooks[i]);
-        }
-
-    }
 }
