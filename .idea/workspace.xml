@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7f86b46-d25e-407f-aafa-ce5ff728b59c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/task20/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task20/ManagementDepartment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task17/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task17/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task17/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task17/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task17/BookShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task17/BookShelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task17/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task17/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task18/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task18/Plane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task18/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task18/Train.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task18/Transportation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task18/Transportation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task21/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task21/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task21/ManagersHiring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task21/ManagersHiring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task22/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task22/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task22/animalworld/Labrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task22/animalworld/Labrador.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,18 +17,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/task20/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lesson16/DynamicArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="-63">
               <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -57,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lesson16/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-386">
+            <state relative-caret-position="-491">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -69,13 +47,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/task23/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            <state relative-caret-position="-348">
+              <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="83" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/task24/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/task23/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -134,9 +121,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="Kotlin File" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -167,9 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson13/Date.java" />
-        <option value="$PROJECT_DIR$/src/lesson11/Parrot.java" />
-        <option value="$PROJECT_DIR$/src/lesson11/TalkingParrot.java" />
         <option value="$PROJECT_DIR$/src/task18/Person.java" />
         <option value="$PROJECT_DIR$/src/task18/MainPerson.java" />
         <option value="$PROJECT_DIR$/src/task18/Student.java" />
@@ -218,6 +202,9 @@
         <option value="$PROJECT_DIR$/src/lesson16/Main.java" />
         <option value="$PROJECT_DIR$/src/task23/Stack.java" />
         <option value="$PROJECT_DIR$/src/task23/Main.java" />
+        <option value="$PROJECT_DIR$/src/task24.java" />
+        <option value="$PROJECT_DIR$/src/task24/task24.java" />
+        <option value="$PROJECT_DIR$/src/task24/Main.java" />
       </list>
     </option>
   </component>
@@ -260,7 +247,7 @@
               <item name="Hillel_School" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hillel_School" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task23" type="462c0819:PsiDirectoryNode" />
+              <item name="task24" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -271,7 +258,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550063493502" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550065244628" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -295,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson16.Main" />
       <module name="Hillel_School" />
@@ -322,12 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task19.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task24.Main" />
       <module name="Hillel_School" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task19.*" />
+          <option name="PATTERN" value="task24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,12 +322,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task18.MainPerson" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task19.Main" />
       <module name="Hillel_School" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task18.*" />
+          <option name="PATTERN" value="task19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,11 +350,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.ManagersHiring" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainPerson" />
       </list>
     </recent_temporary>
   </component>
@@ -578,7 +565,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549562270263</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="task23 stack is wip">
+      <created>1550063521978</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1550063521978</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView">
@@ -633,7 +627,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="class start renamed to simplecalcstart" />
     <MESSAGE value="lesson 4 final push" />
     <MESSAGE value="lesson 4 home task part one" />
     <MESSAGE value="lesson 4 home task part two" />
@@ -658,20 +651,14 @@
     <MESSAGE value="godzilla get hungry" />
     <MESSAGE value="a lot of code added" />
     <MESSAGE value="task22" />
-    <option name="LAST_COMMIT_MESSAGE" value="task22" />
+    <MESSAGE value="task23 stack is wip" />
+    <option name="LAST_COMMIT_MESSAGE" value="task23 stack is wip" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/InputClasses/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/InputClasses/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1065,6 +1052,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/task23/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task23/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-348">
+          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson16/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1074,7 +1075,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson16/DynamicArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="-63">
           <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1088,7 +1089,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson16/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-386">
+        <state relative-caret-position="-491">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1096,17 +1097,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task23/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/task24/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task23/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="154">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
         </state>
       </provider>
     </entry>
